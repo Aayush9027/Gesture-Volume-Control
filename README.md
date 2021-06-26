@@ -6,6 +6,13 @@ A Hand Gesture Volume Control application made using OpenCV &amp; MediaPipe . In
 - Mediapipe (for Hand Tracking)
 - Pycaw (to link up with the system's volume)
 
+## Prerequisites:
+- You should install python version 3.7 or more
+- Import all modules required for the project using this command
+```
+pip install <module name>
+```
+
 ## Features :
 * Can change your computer's volume based on your hand activity
 * Can track your hand in real-time
