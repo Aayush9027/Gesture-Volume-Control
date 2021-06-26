@@ -1,6 +1,11 @@
 # Gesture-Volume-Control🤏
 A Hand Gesture Volume Control application made using OpenCV &amp; MediaPipe . In this project I have built an OpenCV application in which a user can control his system's (laptop/pc) volume by making some Hand Gestures.
 
+### Tech Stacks💻:
+- OpenCV (for image processing and drawing)
+- Mediapipe (for Hand Tracking)
+- Pycaw (to link up with the system's volume)
+
 ## Features :
 * Can change your computer's volume based on your hand activity
 * Can track your hand in real-time
@@ -11,10 +16,7 @@ A Hand Gesture Volume Control application made using OpenCV &amp; MediaPipe . In
 * According to the distance between user's Index finger and Thumb it displays the volume in the volume bar on the screen
 * To set the volume as the system's volume user has to bend his pinky finger simultaneously.
 
-### Tech Stacks💻:
-- OpenCV (for image processing and drawing)
-- Mediapipe (for Hand Tracking)
-- Pycaw (to link up with the system's volume)
+  ![volume-control_f](https://user-images.githubusercontent.com/78357575/123513770-9952ee00-d6ac-11eb-9c55-de3e368c2641.png)
 
 ## Note 📝:  
 Feel free to file a new issue with a respective title and description on the **Gesture-Volume-Control**. If you already found a solution to your problem, I would love to review your pull request! 
@@ -22,7 +24,7 @@ Feel free to file a new issue with a respective title and description on the **G
 ## Contribution 📲:
 1. Clone the repository 
 ```
-$git clone 
+$git clone https://github.com/Aayush9027/Gesture-Volume-Control.git
 ```
 2. Check the status of your file 
 ```
